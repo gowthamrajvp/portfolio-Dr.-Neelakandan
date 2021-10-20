@@ -212,7 +212,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 2 ;
   min-width: 300px;
 }
-#hero h1, h3 {
+#hero h3, h1 {
   margin: 0 0 10px 0;
   font-size: 30px;
   font-weight: 700;
@@ -352,7 +352,7 @@ section {
   margin: 0 0 0 60px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-  color: #ec0808;
+  color: #0e0d0d;
 }
 .facts .count-box a {
   font-weight: 600;
@@ -788,6 +788,7 @@ section {
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: #dd1414;
   color: #fff;
+  
 }
 .contact .php-email-form {
   width: 100%;
