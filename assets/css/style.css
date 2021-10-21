@@ -331,6 +331,8 @@ section {
 .facts .count-box {
   padding: 30px;
   width: 100%;
+  text-align: center;
+  justify-self: center;
 }
 .facts .count-box i {
   display: block;
@@ -339,20 +341,24 @@ section {
   float: left;
   line-height: 0;
 }
+
+
+
 .facts .count-box span {
   font-size: 48px;
   line-height: 40px;
   display: block;
   font-weight: 700;
-  color: #050d18;
+  color: #dd1414;
   margin-left: 60px;
 }
 .facts .count-box p {
-  padding: 15px 0 0 0;
-  margin: 0 0 0 60px;
+  padding: 15px;
+  margin: 0 0 0 50px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
   color: #0e0d0d;
+  text-align: center;
 }
 .facts .count-box a {
   font-weight: 600;
