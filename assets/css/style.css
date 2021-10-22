@@ -327,21 +327,21 @@ section {
 --------------------------------------------------------------*/
 .facts {
   padding-bottom: 30px;
+  padding-right: 8%;
 }
 .facts .count-box {
   padding: 30px;
   width: 100%;
   text-align: center;
-  justify-self: center;
+  
 }
 .facts .count-box i {
   display: block;
   font-size: 44px;
   color: #dd1414;
-  float: left;
+  float: center;
   line-height: 0;
 }
-
 
 
 .facts .count-box span {
@@ -359,6 +359,7 @@ section {
   font-size: 14px;
   color: #0e0d0d;
   text-align: center;
+  
 }
 .facts .count-box a {
   font-weight: 600;
@@ -443,7 +444,8 @@ section {
   padding-left: 20px;
 }
 .resume .resume-item ul li {
-  padding-bottom: 10px;
+  padding: 10px;
+  text-align: justify;
 }
 .resume .resume-item:last-child {
   padding-bottom: 0;
