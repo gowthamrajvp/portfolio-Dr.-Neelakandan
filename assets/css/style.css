@@ -290,6 +290,11 @@ section {
 }
 .section-title p {
   margin-bottom: 0;
+  text-indent: 60px;
+  text-align: justify;
+  word-spacing: 20px;
+  font-size: 18px;
+ 
 }
 
 /*--------------------------------------------------------------
@@ -359,7 +364,7 @@ section {
   font-size: 14px;
   color: #0e0d0d;
   text-align: center;
-  
+
 }
 .facts .count-box a {
   font-weight: 600;
